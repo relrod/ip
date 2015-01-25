@@ -6,7 +6,7 @@
 -- License : BSD2 (see LICENSE file)
 -- Maintainer : Ricky Elrod <ricky@elrod.me>
 -- Stability : experimental
--- Portability : lens
+-- Portability : portable
 --
 -- This library provides functions and types for handling/dealing with IP
 -- addressing and subnetting, along with parsing them.
